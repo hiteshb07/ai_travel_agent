@@ -1,0 +1,7 @@
+streamlit
+openai
+SQLAlchemy
+pandas
+icalendar
+PyPDF2
+python-dotenv
